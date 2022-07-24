@@ -1,0 +1,23 @@
+module.exports = {
+    emoji0: "<a:0_hercules:801927619612114944>",
+    emoji1: "<a:1_hercules:801927703770955797>",
+    emoji2: "<a:2_hercules:801927748100030505>",
+    emoji3: "<a:3_hercules:801927816199143424>",
+    emoji4: "<a:4_hercules:801927864257085502>",
+    emoji5: "<a:5_hercules:801927908066328616>",
+    emoji6: "<a:6_hercules:801927954824167464>",
+    emoji7: "<a:7_hercules:801928714916069476>",
+    emoji8: "<a:8_hercules:801928729177489429>",
+    emoji9: "<a:9_hercules:801928746105831466>",
+    emojicerto: "<a:certo:801635771026505788>", 
+    emojierror: "<a:aerrado:801635843143237713>",
+    emojisetinha: "<:seta:801634923919835138>",
+    emojiusers: "<:user:801635569372364820>",
+    emojitempo: "<:timer~1:775117747058638858>",
+    emojiloading: "<a:carregando:801635132661956618>",
+    emojiligado: "<:ligado:801635926761275402>",
+    emojidesligado: "<:desligado:801635935933562880>",
+    emojipasta: "<:Pasta:801634961287282689>",
+    emojitabela: "<a:TABELAHERCULES:806767223209066537>",
+    emojicracha: "<:Cracha:801636302423457842>"
+}

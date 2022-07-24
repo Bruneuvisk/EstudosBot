@@ -1,0 +1,31 @@
+{
+  "name": "estudosbot",
+  "version": "1.0.0",
+  "description": "Este é o melhor bot focado para estudos da turma da escola",
+  "main": "src/index.js",
+  "repository": "null",
+  "author": "Bruno.#1000",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start_pm2": "pm2 start src/index.js --name estudosbot --max-memory-restart 512M",
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^1.0.0",
+    "chalk": "4.1.2",
+    "currency-formatter": "^1.5.9",
+    "discord.js": "^14.0.3",
+    "enmap": "^5.9.0",
+    "fs": "^0.0.1-security",
+    "klaw": "^4.0.1",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "path": "^0.12.7",
+    "systeminformation": "^5.12.1"
+  },
+  "devDependencies": {
+    "utf-8-validate": "^5.0.9"
+  }
+}
